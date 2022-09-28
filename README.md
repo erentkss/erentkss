@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erentkss&label=Profile%20views&color=0e75b6&style=flat" alt="erentkss" /> </p>
 
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/578073643125571604)](https://discord.com/users/578073643125571604)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erentkss&label=Profile%20views&color=0e75b6&style=flat" alt="erentkss" /> </p>
 - 🔭 I’m currently working on [erentkss.github.io](https://erentkss.github.io/erentkss/)
 
 - 📝 I regularly write articles on [https://erentkss.github.io/erentkss/](https://erentkss.github.io/erentkss/)
