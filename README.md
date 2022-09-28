@@ -12,7 +12,7 @@
 - 📫 How to reach me **awneeeren@gmail.com**
 
 - ⚡ Fun fact **I think I am fun**
-
+[![Discord Profile](https://lanyard-profile-readme.vercel.app/api/578073643125571604)](https://discord.com/users/578073643125571604)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/erentkss developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="erentkss developer" height="30" width="40" /></a>
